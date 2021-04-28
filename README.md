@@ -1,2 +1,2 @@
 # Kali_Linux
-Kali Linux stuff
+Yo, I'm learning how to use Kali Linux :D
